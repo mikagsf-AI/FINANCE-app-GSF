@@ -1,5 +1,4 @@
-![alt text](?mona-happy.gifraw=true)
-
+![alt text](?fbba85b3-6473-438c-9e6a-936d036d3f17.jpegraw=true)
 # 🌟 GSF App Suite
 > Mewah, eksklusif, & siap pakai. Semua modul bisa diakses langsung lewat link & preview.
 
